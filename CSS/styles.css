@@ -1,0 +1,40 @@
+* {margin:0;padding:0}
+
+/* Background Colours */
+header{background-color:black}
+main {background-color:#01654d}
+
+
+/* Text Properties */
+h1 {font-size:32px;color:white;}
+h2 {font-size:30px;color:#ffabcf; text-align:center}
+p {font-family:'Courier New', Courier, monospace;font-size:20px;color:#ffabcf}
+
+/* Margins */
+main {margin-top:5px;}
+body {margin:0}
+#section3 {margin-top:130px;}
+
+
+/* Padding */
+header, main {padding:5px}
+
+ 
+/* Positioning (Float, Display and Clear) */
+h1 {float:center}
+#section3 {height:450px;width:auto;float:right;margin-right: 100px;}
+header, main{display:block;clear:both}
+
+
+/* Element Sizes */
+main {width:99%}
+body {height:100%}
+
+/*body {width:800px}*/
+.imageBanner {width:auto;height:200px}
+.profilePic {margin-left: 150px; margin-top:10px ;height:450px}
+.info {width:700px}
+header {height:200px}
+
+
+/* Text Properties */
